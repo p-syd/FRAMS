@@ -10,7 +10,7 @@ Facial recognition is a way of recognizing a human face through technology. A fa
 
 ## Our Approach
 
-- To build a  system based on a special type of CNN architecture known as a siamese network. Such a network is trained to generate a very accurate and almost unique 128 vector given that the images of face which are fed to the network are properly aligned and cropped.
+- To build a  system based on a special type of **CNN architecture** known as a **siamese network**. Such a network is trained to generate a very accurate and almost unique 128 vector given that the images of face which are fed to the network are properly aligned and cropped.
 
 ![Image of Yaktocat](https://i.ytimg.com/vi/g3UGGAEbw_Q/maxresdefault.jpg)
 
